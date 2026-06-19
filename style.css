@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Montserrat';  /* Придумайте имя для CSS */
-  src: url(fonts/Montserrat-VariableFont_wght.ttf)
+  src: url("fonts/Montserrat-VariableFont_wght.ttf")
 }
 
 
@@ -9,7 +9,7 @@ body {
     font-size: 13px;
     color: #515076;
     line-height: 18px;
-    background-image: url(images/bg-dandelions.png);
+    background-image: url("images/bg-dandelions.png");
     background-size: 790px auto;
     background-repeat: no-repeat;
     background-position-x: calc(100%/2 - 160px);
